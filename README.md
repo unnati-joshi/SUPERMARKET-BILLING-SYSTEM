@@ -1,6 +1,6 @@
-# 🛒 Supermarket Billing System (C++ Console Application)
+# Supermarket Billing System (C++ Console Application)
 
-## ❗ Statement of the Problem
+##  Statement of the Problem
 
 Manual and semi-digital billing systems result in:
 
@@ -14,41 +14,41 @@ These limitations affect customer satisfaction and operational efficiency, espec
 
 ---
 
-## 🎯 Project Goals
+##  Project Goals
 
 This project aims to develop a console-based C++ application that:
 
-- ✅ Automatically generates bills, applies discounts, and prints receipts
-- ✅ Manages inventory in real-time — updates stock upon purchases and restocking
-- ✅ Stores and retrieves customer data for tracking purchase history
-- ✅ Produces basic session-based sales reports (total revenue, number of transactions)
-- ✅ Ensures persistent data storage using file handling
-- ✅ Offers a simple, menu-driven interface usable with minimal training
+-  Automatically generates bills, applies discounts, and prints receipts
+-  Manages inventory in real-time — updates stock upon purchases and restocking
+-  Stores and retrieves customer data for tracking purchase history
+-  Produces basic session-based sales reports (total revenue, number of transactions)
+-  Ensures persistent data storage using file handling
+-  Offers a simple, menu-driven interface usable with minimal training
 
 ---
 
-## ✨ Included Features
+##  Included Features
 
-### 🔄 Inventory Management
+###  Inventory Management
 - Add, update, search, and delete inventory items
 
-### 👤 Customer Management
+###  Customer Management
 - Store and retrieve basic customer information
 
-### 🧾 Billing System
+###  Billing System
 - Generate itemized bills
 - Calculate totals and discounts
 - Automatically update inventory
 
-### 💾 File Handling
+###  File Handling
 - Read/write customer, inventory, and billing data for persistence
 
-### 📊 Basic Sales Reporting
+###  Basic Sales Reporting
 - View total sales and items sold in the current session
 
 ---
 
-## 🛠️ How to Run
+##  How to Run
 
 1. Clone the repository:
    ```bash
